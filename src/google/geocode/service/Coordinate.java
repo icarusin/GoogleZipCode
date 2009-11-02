@@ -1,5 +1,7 @@
 package google.geocode.service;
 
+// Just adding this comment here to test a GIT Checkin.
+
 public class Coordinate {
 	private double latitude;
 	private double longitude;
